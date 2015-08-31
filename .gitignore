@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -19,3 +20,13 @@
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+=======
+.DS_Store
+.svn
+log/*.log
+tmp/**
+node_modules/
+.sass-cache
+css/reveal.min.css
+js/reveal.min.js
+>>>>>>> b390e66c270d4fc26755fc4097e02808ea567721
